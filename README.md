@@ -42,9 +42,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BEYALB}/count.svg" /></p> 
-<br></div> 
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://hits.sh/github.com/BEYALB.svg?view=total&label=VISITANTES&color=00ff88&labelColor=000000&style=for-the-badge" />
+  
+  </p> 
+  <br>
+</div>
 
 
 
