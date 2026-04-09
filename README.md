@@ -32,9 +32,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
  
-### Other Knowledge:
+     ### Other Knowledge:
 
-![Git](https://img.shields.io/badge/-Cordova-0D1117?style=for-the-badge&logo=apachecordova&labelColor=0D1117)&nbsp;
+    ![Git](https://img.shields.io/badge/-Cordova-0D1117?style=for-the-badge&logo=apachecordova&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 
