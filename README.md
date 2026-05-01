@@ -3,7 +3,7 @@
 
 <div align="right">
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/RAMYEB9/RAMYEB9/edit/main/README.md)</kbd>
+#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/BEYALB/edit/main/README.md)</kbd>
 
 </div>
 <img width="1408" height="768" alt="back-front" src="https://github.com/user-attachments/assets/fd12db89-1617-4292-ad8e-6c77c9b49ded" />
@@ -11,13 +11,13 @@
 <div align="right">
 <br>
 
-![profile-views](https://komarev.com/ghpvc/?username=RAMYEB9&color=orange)
+![profile-views](https://komarev.com/ghpvc/?username=BEYALB&color=orange)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=blue&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End;Back+End;Formação+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=blue&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End+Back+End;Formação+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
 
 </div>
 
@@ -87,7 +87,7 @@ class SobreMim extends Desenvolvedor {
 <br>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMYEB9&layout=compact&langs_count=16&theme=cobalt"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEYALB&layout=compact&langs_count=16&theme=cobalt"/>
 </p>
   
 <br>
@@ -193,7 +193,7 @@ Conecte-se comigo em outras redes!
 <br>
 
 <p align="center">
-   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=RAMYEB9&them=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=BEYALB&them=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAMYEB9&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
   
@@ -223,13 +223,13 @@ Gosto da  tecnologia, aprendizado e  do Open Source sempre disposto a aprender n
 
 <br>
 
-![Snake animation](https://github.com/RAMYEB9/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BEYALB/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
 <br>
 
-[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/RAMYEB9/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
+[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/BEYALB/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
 
 <br>
  
