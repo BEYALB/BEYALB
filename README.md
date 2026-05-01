@@ -82,21 +82,18 @@ class SobreMim extends Desenvolvedor {
   
 <br>
 
-# 🔝 Linguagens mais usadas
 
-<br>
+
+<!-- <br>
 
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEYALB&layout=compact&langs_count=16&theme=cobalt"/>
 </p>
   
-<br>
+<br> -->
 
-# 📌 Projetos em destaque
 
-🚧 Em breve... (adicione aqui seus projetos)
 
----
 
 <!-- <br>
 
@@ -193,8 +190,11 @@ Conecte-se comigo em outras redes!
 <br>
 
 <p align="center">
-   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=BEYALB&them=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAMYEB9&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BEYALB&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Beymar" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BEYALB&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+
+   
 </p>
   
 
