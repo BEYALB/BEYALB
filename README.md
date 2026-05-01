@@ -48,6 +48,16 @@ class SobreMim extends Desenvolvedor {
 - ✍️ Quando não estou programando, você pode me encontrar estudando, lendo.
 
 <br>
+<!-- <div align="center">   -->
+  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BEYALB&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Beymar Albarez Avalos github stats"/>  -->
+  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEYALB&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
+<!-- </div> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BEYALB&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<br>
 
 # ⌨️ Linguagens
 
@@ -217,11 +227,11 @@ Gosto da  tecnologia, aprendizado e  do Open Source sempre disposto a aprender n
 
 
 
-  
+<!--  
 <br>
 # 🐍 Commit Snake
-
-<br>
+-->
+<!-- <br>
 
 ![Snake animation](https://github.com/BEYALB/blob/output/github-contribution-grid-snake.svg)
 
@@ -231,7 +241,7 @@ Gosto da  tecnologia, aprendizado e  do Open Source sempre disposto a aprender n
 
 [<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/BEYALB/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
 
-<br>
+<br> -->
  
  <div>
   <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
